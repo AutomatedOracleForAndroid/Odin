@@ -5,4 +5,4 @@
 
 - Binary:
 
-	* 
+	* [https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/Barbara-bin.rar](https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/Barbara-bin.rar)
