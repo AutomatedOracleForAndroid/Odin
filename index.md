@@ -19,7 +19,7 @@
 
 - Additional 11 subjects: [subjects-new](https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/subjects-new.rar)
 
-- Subjects used by Genie: [subjects-comparsion](https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/subjects-comparison.rar)
+- Subjects used by Genie: [subjects-comparsion](https://1drv.ms/u/s!Ap89R8sDM76GpPcWN9RcFMWcTw-Skw?e=frcdsD)
 
 
 ### Execution log
