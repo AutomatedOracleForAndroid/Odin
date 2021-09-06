@@ -1,2 +1,2 @@
-# Barbara
-Website for Barbara, an automated test orcale for Android apps
+# Odin
+Website for Odin, an automated test orcale for Android apps
