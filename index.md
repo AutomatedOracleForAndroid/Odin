@@ -17,12 +17,13 @@
 
 ### Subjects
 
-- Additional 11 subjects: [subjects-new](https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/subjects-new.rar)
+- Additional 11 subjects: [subjects-new](https://1drv.ms/u/s!Ap89R8sDM76GpPcXtXgMl5d-btW22w?e=N3pHeu)
 
 - Subjects used by Genie: [subjects-comparsion](https://1drv.ms/u/s!Ap89R8sDM76GpPcWN9RcFMWcTw-Skw?e=frcdsD)
 
+### Execution logs and results
 
-### Execution log
+- [logNResults] (https://1drv.ms/u/s!Ap89R8sDM76GpPcWN9RcFMWcTw-Skw?e=frcdsD)
 
 ### Bug Lists
 
