@@ -58,8 +58,7 @@
 ), [361](https://github.com/y20k/transistor/issues/361
 )
 
-	* SkyTube: [#984](https://github.com/SkyTubeTeam/SkyTube/issues/984, [#990](https://github.com/SkyTubeTeam/SkyTube/issues/990)
-)
+	* SkyTube: [#984](https://github.com/SkyTubeTeam/SkyTube/issues/984),[#990](https://github.com/SkyTubeTeam/SkyTube/issues/990)
 
 	* aard2: [#110](https://github.com/itkach/aard2-android/issues/110
 )
