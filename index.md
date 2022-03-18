@@ -69,48 +69,29 @@
 
 	* Bugs detected by Odin alone:
 
-		- Transistor: [#265](https://github.com/y20k/transistor/issues/265), [230](https://github.com/y20k/transistor/issues/230)
-
 		- Tasks: [#741](https://github.com/tasks/tasks/issues/741)
 
 		- UnitConverter: [#217](https://github.com/physphil/UnitConverterUltimate/issues/217)
 
-		- Markor: [#1313](https://github.com/gsantner/markor/pull/1313)
-
-		- AnkiDroid: [#6284](https://github.com/ankidroid/Anki-Android/issues/6284)
-
-		- AnyMemo: [#512](https://github.com/helloworld1/AnyMemo/issues/512), [#499](https://github.com/helloworld1/AnyMemo/issues/499)
-
 	* Bugs detected by Genie only:
 
 		- ActivityDiary: [#261](https://github.com/ramack/ActivityDiary/issues/261), [#288](https://github.com/ramack/ActivityDiary/issues/288), [#289](https://github.com/ramack/ActivityDiary/issues/289), [#291](https://github.com/ramack/ActivityDiary/issues/291)
-
-		- Transistor: [#235](https://github.com/y20k/transistor/issues/235)
 
 		- Tasks: [#816](https://github.com/tasks/tasks/issues/816)
 
 		- UnitConverter: [#170](https://github.com/physphil/UnitConverterUltimate/issues/170)
 
 		- SimpleTask: [#993](https://github.com/mpcjanssen/simpletask-android/issues/993)
-
-		- Markor: [#620](https://github.com/gsantner/markor/issues/620)
-
-		- AnkiDroid: [#5407](https://github.com/ankidroid/Anki-Android/issues/5407)
-
-		- AnyMemo: [#497](https://github.com/helloworld1/AnyMemo/issues/497), [#496](https://github.com/helloworld1/AnyMemo/issues/496), [#495](https://github.com/helloworld1/AnyMemo/issues/495)
-
+	
 		- MyExpense: [#650](https://github.com/mtotschnig/MyExpenses/issues/650)
 
 	* Bugs detected by Genie and Odin:
 
 		- ActivityDiary: [#286](https://github.com/ramack/ActivityDiary/issues/286), [#287](https://github.com/ramack/ActivityDiary/issues/287), [#290](https://github.com/ramack/ActivityDiary/issues/290)
 
-		- Transistor: [#234](https://github.com/y20k/transistor/issues/234), [#236](https://github.com/y20k/transistor/issues/236), [#239](https://github.com/y20k/transistor/issues/239),[#249](https://github.com/y20k/transistor/issues/249)
 
 		- Tasks: [#811](https://github.com/tasks/tasks/issues/811)
 
 		- UnitConverter: [#201](https://github.com/physphil/UnitConverterUltimate/issues/201)
 
 		- Fosdem: [#47](https://github.com/cbeyls/fosdem-companion-android/issues/47)
-
-		- Markor: [#894](https://github.com/gsantner/markor/issues/894), [#895](https://github.com/gsantner/markor/issues/895), [#900](https://github.com/gsantner/markor/issues/900)
