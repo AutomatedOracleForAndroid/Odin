@@ -7,8 +7,6 @@
 
 	* [https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/Barbara-bin.rar](https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/Barbara-bin.rar)
 
-- Monkey: Shipped with all Android deivce
-
 - APE: [APE](http://gutianxiao.com/ape/)
 
 - ComboDroid: [ComboDroid](https://github.com/the-themis-benchmarks/combodroid)
