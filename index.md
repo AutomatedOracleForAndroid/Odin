@@ -3,9 +3,9 @@
 
 ### Tools in evaluation
 
-- Odin (Binary):
-
-	* [https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/Barbara-bin.rar](https://github.com/AutomatedOracleForAndroid/Barbara/raw/gh-pages/Barbara-bin.rar)
+- Odin:
+	Source code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6973860.svg)](https://doi.org/10.5281/zenodo.6973860) 
+	Virtual machine artifact [repository](https://www.kaggle.com/datasets/juewang591/odinartifact)
 
 - APE: [APE](http://gutianxiao.com/ape/)
 
@@ -15,13 +15,7 @@
 
 ### Subjects
 
-- Additional 11 subjects: [subjects-new](https://1drv.ms/u/s!Ap89R8sDM76GpPcXtXgMl5d-btW22w?e=N3pHeu)
-
-- Subjects used by Genie: [subjects-comparsion](https://1drv.ms/u/s!Ap89R8sDM76GpPcWN9RcFMWcTw-Skw?e=frcdsD)
-
-### Execution logs and results
-
-- [logNResults](https://1drv.ms/u/s!Ap89R8sDM76GpPcYsl21NLl-Uqos9A?e=UkVC0H)
+- Can be found inside the virtual machine artifact
 
 ### Bug Lists
 
