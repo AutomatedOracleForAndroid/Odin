@@ -4,8 +4,8 @@
 ### Tools in evaluation
 
 - Odin:
-	Source code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6973860.svg)](https://doi.org/10.5281/zenodo.6973860) 
-	Virtual machine artifact [repository](https://www.kaggle.com/datasets/juewang591/odinartifact)
+	* Source code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6973860.svg)](https://doi.org/10.5281/zenodo.6973860) 
+	* Virtual machine artifact [repository](https://www.kaggle.com/datasets/juewang591/odinartifact)
 
 - APE: [APE](http://gutianxiao.com/ape/)
 
